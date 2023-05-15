@@ -1,6 +1,6 @@
 import requests
 
-api_key = "a22e5f1c5d3593063bbaa8d2e3c47319"
+api_key = "API KEY"
 city = input("City name -: ")
 
 # geolocater = requests.get(f"http://api.openweathermap.org/geo/1.0/direct?q={city}&appid={api_key}")
